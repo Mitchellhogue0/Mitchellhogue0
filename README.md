@@ -28,4 +28,4 @@
 
 
 [website]: https://github.com/devsplash-capstone/devsplash
-[linkedin]: www.linkedin.com/in/mitchell-hogue
+[linkedin]:https://linkedin.com/in/mitchell-hogue
